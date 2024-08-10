@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "XIUYU HU"
-  pronouns         : "he/his"# example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate"
   location         : "Shanghai, China"
-  employer         : "Tongji University123"
+  employer         : "Tongji University"
   uri              : # URL
   email            : "tongjihuxiuyu@tongji.edu.cn"
 
